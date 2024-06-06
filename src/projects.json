@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Tabela em Grid",
+        "description" : "Tabela em que um dos seus campos é responsivo.",
+        "path": "personal/grid-table/index.html"
+    },
+    {
+        "name": "Projeto 2",
+        "description" : "Teste",
+        "path": "personal/responsive-table/index.html"
+    },
+    {
+        "name": "Projeto 3",
+        "description" : "Teste",
+        "path": "personal/sorted-table/index.html"
+    },
+    {
+        "name": "Projeto 4",
+        "description" : "Teste",
+        "path": "external/button-interaction-animation/index.html"
+    },
+    {
+        "name": "Projeto 5",
+        "description" : "Teste",
+        "path": "external/card-flip-effect/index.html"
+    },
+    {
+        "name": "Projeto 6",
+        "description" : "Teste",
+        "path": "external/container-reveal/index.html"
+    },
+    {
+        "name": "Projeto 7",
+        "description" : "Teste",
+        "path": "external/day-night/index.html"
+    },
+    {
+        "name": "Projeto 8",
+        "description" : "Teste",
+        "path": "external/scroll-snap-type/index.html"
+    },
+    {
+        "name": "Projeto 9",
+        "description" : "Teste",
+        "path": "external/simple-responsive-navbar/index.html"
+    },
+    {
+        "name": "Projeto 10",
+        "description" : "Teste",
+        "path": "external/spin-loading-animation/index.html"
+    },
+    {
+        "name": "Projeto 11",
+        "description" : "Teste",
+        "path": "external/text-blink/index.html"
+    }
+]
