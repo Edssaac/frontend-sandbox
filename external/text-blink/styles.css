@@ -1,0 +1,20 @@
+.texto::after {
+    margin-left: 1px;
+    display: inline;
+    content: "i";
+    color: transparent;
+    background: #ff4473;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+    }
+
+}
