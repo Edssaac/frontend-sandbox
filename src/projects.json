@@ -15,9 +15,9 @@
         "path": "personal/sortable-table/index.html"
     },
     {
-        "name": "Projeto 4",
-        "description" : "Teste",
-        "path": "external/button-interaction-animation/index.html"
+        "name": "Botão Animado",
+        "description" : "Botão que exibe uma animação após ser clicado.",
+        "path": "external/animated-button/index.html"
     },
     {
         "name": "Projeto 5",
