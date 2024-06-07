@@ -40,9 +40,9 @@
         "path": "external/horizontal-scroll/index.html"
     },
     {
-        "name": "Projeto 9",
-        "description": "Teste",
-        "path": "external/simple-responsive-navbar/index.html"
+        "name": "Navbar Responsiva",
+        "description": "Componente responsivo para navegação.",
+        "path": "external/responsive-navbar/index.html"
     },
     {
         "name": "Projeto 10",
