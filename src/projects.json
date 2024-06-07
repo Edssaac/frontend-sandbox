@@ -45,8 +45,8 @@
         "path": "external/responsive-navbar/index.html"
     },
     {
-        "name": "Projeto 10",
-        "description": "Teste",
+        "name": "Spinner",
+        "description": "Componente para demonstrar carregamento de conteúdo.",
         "path": "external/spin-loading-animation/index.html"
     },
     {
