@@ -1,4 +1,4 @@
-function reveal() {
+const reveal = () => {
     const reveals = document.querySelectorAll(".reveal");
 
     reveals.forEach((reveal) => {

@@ -21,13 +21,13 @@
     },
     {
         "name": "Card Inversível",
-        "description" : "Teste",
+        "description" : "Card que aplica animação de inversão conforme a interação do usuário.",
         "path": "external/flippable-card/index.html"
     },
     {
-        "name": "Projeto 6",
-        "description" : "Teste",
-        "path": "external/container-reveal/index.html"
+        "name": "Container Revelável",
+        "description" : "Containers que são exibidos conforme a página é navegada. ",
+        "path": "external/revealable-container/index.html"
     },
     {
         "name": "Projeto 7",
