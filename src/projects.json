@@ -10,9 +10,9 @@
         "path": "personal/responsive-table/index.html"
     },
     {
-        "name": "Projeto 3",
-        "description" : "Teste",
-        "path": "personal/sorted-table/index.html"
+        "name": "Tabela Ordenável",
+        "description" : "Tabela em que suas colunas podem ser ordenadas conforme o desejado.",
+        "path": "personal/sortable-table/index.html"
     },
     {
         "name": "Projeto 4",

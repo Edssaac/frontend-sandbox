@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="main.css">
+    <script src="main.js" defer></script>
+
+    <title>Tabela Ordenável</title>
+</head>
+
+<body>
+    <section>
+        <table id="product_table">
+            <thead>
+                <tr>
+                    <th>
+                        <div class="sorting_index">
+                            ID
+                            <div class="sorting_area" data-index="0" data-status="cresc" title="Ordenar Crescentemente">
+                                <i class="fa fa-sort-asc" aria-hidden="true"></i>
+                                <i class="fa fa-sort-desc" aria-hidden="true"></i>
+                            </div>
+                        </div>
+                    </th>
+                    <th>Produto</th>
+                    <th>
+                        <div class="sorting_index">
+                            Preço
+                            <div class="sorting_area" data-index="2" data-status="cresc" data-monetary="true"
+                                title="Ordenar Crescentemente">
+                                <i class="fa fa-sort-asc" aria-hidden="true"></i>
+                                <i class="fa fa-sort-desc" aria-hidden="true"></i>
+                            </div>
+                        </div>
+                    </th>
+                    <th>
+                        <div class="sorting_index">
+                            Quantidade
+                            <div class="sorting_area" data-index="3" data-status="cresc" title="Ordenar Crescentemente">
+                                <i class="fa fa-sort-asc" aria-hidden="true"></i>
+                                <i class="fa fa-sort-desc" aria-hidden="true"></i>
+                            </div>
+                        </div>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>922337</td>
+                    <td>Modelador Babyliss Pro Nano Titanium Triondas Waver - 230ºC/440ºF</td>
+                    <td>R$ 301,90</td>
+                    <td>153</td>
+                </tr>
+                <tr>
+                    <td>922338</td>
+                    <td>Modelador Triondas Deep Waver Nano Titanium Babyliss PRO - 230ºC/440ºF</td>
+                    <td>R$ 301,90</td>
+                    <td>206</td>
+                </tr>
+                <tr>
+                    <td>922339</td>
+                    <td>Secador BabyLiss Pro Ferrari Volare V1 2000W - Vermelho</td>
+                    <td>R$ 766,90</td>
+                    <td>294</td>
+                </tr>
+                <tr>
+                    <td>933961</td>
+                    <td>Biquini Bikinito Lana Saylor Preto</td>
+                    <td>R$ 158,90</td>
+                    <td>261</td>
+                </tr>
+                <tr>
+                    <td>933962</td>
+                    <td>Biquini Bikinito Piper Ocean Waverly Preto</td>
+                    <td>R$ 173,90</td>
+                    <td>190</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+</body>
+
+</html>

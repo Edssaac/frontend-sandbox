@@ -1,0 +1,29 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.sorting_index {
+    display: flex;
+    align-items: baseline;
+}
+
+.sorting_area {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 10px;
+    cursor: pointer;
+}
+
+.fa-sort-asc,
+.fa-sort-desc {
+    height: 0px;
+    color: grey;
+    user-select: none;
+
+}
+
+.selected_order {
+    color: black;
+}
