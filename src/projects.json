@@ -50,8 +50,8 @@
         "path": "external/spin-loading-animation/index.html"
     },
     {
-        "name": "Projeto 11",
-        "description": "Teste",
-        "path": "external/text-blink/index.html"
+        "name": "Cursor",
+        "description": "Componente visual que cria animação do cursor piscando.",
+        "path": "external/blinking-text/index.html"
     }
 ]
