@@ -1,57 +1,57 @@
 [
     {
         "name": "Tabela em Grid",
-        "description" : "Tabela em que um dos seus campos é responsivo.",
+        "description": "Tabela em que um dos seus campos é responsivo.",
         "path": "personal/grid-table/index.html"
     },
     {
         "name": "Relatório Responsivo",
-        "description" : "Tabela responsiva que permite uma boa visualização e legibilidade para desktop e mobile.",
+        "description": "Tabela responsiva que permite uma boa visualização e legibilidade para desktop e mobile.",
         "path": "personal/responsive-table/index.html"
     },
     {
         "name": "Tabela Ordenável",
-        "description" : "Tabela em que suas colunas podem ser ordenadas conforme o desejado.",
+        "description": "Tabela em que suas colunas podem ser ordenadas conforme o desejado.",
         "path": "personal/sortable-table/index.html"
     },
     {
         "name": "Botão Animado",
-        "description" : "Botão que exibe uma animação após ser clicado.",
+        "description": "Botão que exibe uma animação após ser clicado.",
         "path": "external/animated-button/index.html"
     },
     {
         "name": "Card Inversível",
-        "description" : "Card que aplica animação de inversão conforme a interação do usuário.",
+        "description": "Card que aplica animação de inversão conforme a interação do usuário.",
         "path": "external/flippable-card/index.html"
     },
     {
         "name": "Container Revelável",
-        "description" : "Containers que são exibidos conforme a página é navegada. ",
+        "description": "Containers que são exibidos conforme a página é navegada. ",
         "path": "external/revealable-container/index.html"
     },
     {
         "name": "Modo Noturno",
-        "description" : "Componente visual para realizar a troca de tema da página.",
+        "description": "Componente visual para realizar a troca de tema da página.",
         "path": "external/night-mode/index.html"
     },
     {
-        "name": "Projeto 8",
-        "description" : "Teste",
-        "path": "external/scroll-snap-type/index.html"
+        "name": "Rolagem Horizontal",
+        "description": "Componente que permite o deslocamente horizontal de conteúdos em um container.",
+        "path": "external/horizontal-scroll/index.html"
     },
     {
         "name": "Projeto 9",
-        "description" : "Teste",
+        "description": "Teste",
         "path": "external/simple-responsive-navbar/index.html"
     },
     {
         "name": "Projeto 10",
-        "description" : "Teste",
+        "description": "Teste",
         "path": "external/spin-loading-animation/index.html"
     },
     {
         "name": "Projeto 11",
-        "description" : "Teste",
+        "description": "Teste",
         "path": "external/text-blink/index.html"
     }
 ]
