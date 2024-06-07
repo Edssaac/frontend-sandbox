@@ -11,7 +11,7 @@ body {
     height: 100vh;
 }
 
-.day-night-container {
+.theme-container {
     position: relative;
     height: 200px;
     width: 200px;
@@ -129,21 +129,20 @@ body {
     transition: all .7s ease;
 }
 
-/* Hover Effects */
-.day-night-container:hover {
+.theme-container:hover {
     background: #e9786b;
 }
 
-.day-night-container:hover .sun {
+.theme-container:hover .sun {
     opacity: 1;
     top: 105px;
 }
 
-.day-night-container:hover .moon {
+.theme-container:hover .moon {
     left: 120%;
     top: -50%;
 }
 
-.day-night-container:hover .water {
+.theme-container:hover .water {
     background: #71baf2;
 }

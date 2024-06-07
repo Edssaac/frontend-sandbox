@@ -30,9 +30,9 @@
         "path": "external/revealable-container/index.html"
     },
     {
-        "name": "Projeto 7",
-        "description" : "Teste",
-        "path": "external/day-night/index.html"
+        "name": "Modo Noturno",
+        "description" : "Componente visual para realizar a troca de tema da página.",
+        "path": "external/night-mode/index.html"
     },
     {
         "name": "Projeto 8",
